@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Rego // code, chaos & caffeine</h1>
 
-<!--
-**regoxcodes/regoxcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Developer-blue" />
+  <img src="https://img.shields.io/badge/CTF-Player-red" />
+  <img src="https://img.shields.io/badge/AI-Explorer-purple" />
+  <img src="https://img.shields.io/badge/Cyber-Enthusiast-green" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/yourname">GitHub</a> •
+  <a href="https://discord.gg/yourlink">Discord</a> •
+  <a href="mailto:you@email.com">Mail</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
