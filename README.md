@@ -9,3 +9,6 @@ Python Developer • CTF Player • AI Explorer • Cyber Enthusiast
 <a href="mailto:regocodes@gmail.com">Mail</a>
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=regoxcodes&show_icons=true&theme=tokyonight" />
+
+
