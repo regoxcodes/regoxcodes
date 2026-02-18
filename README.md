@@ -1,16 +1,23 @@
-## Hi there 👋
+Hey there! 👋
 
-<!--
-**regoxcodes/regoxcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Niraya, a design engineer based in Germany.
 
-Here are some ideas to get you started:
+I design and build whatever I can imagine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea pops into my head, chances are I’ll build it and ship it.
+
+My main tech stack is react, typescript, tailwind, and framer motion. My favorite tools are figma, notes.
+
+I've got a bunch of pinned projects, but my favorite is the Discord Support Bot.
+
+I'm new in this field so rn learning.
+
+If you want to learn how i do it, my books and course are available here!
+
+
+Fun Facts:
+
+• I have 3 dogs
+• I love coffee and tea
+• Baki Hanma is my fav anime
+• Hobbies: anime, gym, building things
