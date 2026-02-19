@@ -1,7 +1,8 @@
-<h1 align="center">ReGO // code, chaos & caffeine</h1>
+## <h1 align="center">ReGO // code, chaos & caffeine</h1>
 
 <p align="center">
-Python Developer • CTF Player • AI Explorer • Cyber Enthusiast
+  Python Developer • CTF Player • AI Explorer • Cyber Enthusiast
+
 
 <p align="center">
 <a href="https://github.com/regoxcodes">GitHub</a> •
