@@ -1,5 +1,3 @@
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-
 ## <h1 align="center">Wayne // code, chaos & caffeine</h1>
 
 <p align="center">
