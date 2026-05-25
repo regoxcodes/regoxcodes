@@ -36,7 +36,7 @@
 <br clear="right"/>
 
 <div align="center">
-  <img src="https://i.postimg.cc/VsHvnJQM/image.png" width="100%">
+  <img src="https://camo.githubusercontent.com/880d85906497b02699dc0056a241b1bc4ebb6ee7815a0be1f868f905cc16db8d/68747470733a2f2f692e706f7374696d672e63632f5459463237466e372f57686174732d4170702d496d6167652d323032362d30332d30352d61742d31312d30322d31392d504d2e6a7067" width="100%">
   <br>
   <a href="https://github.com/regoxcodes"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"></a>
   &nbsp;
@@ -57,7 +57,7 @@
 <br>
 
 <div align="center">
-  <img src="https://i.postimg.cc/YCHmRPRX/image.png" width="100%">
+  <img src="https://camo.githubusercontent.com/81987b5793bb069f01495464bf8e4f8109c5630a48854234cd8a44d4cc901389/68747470733a2f2f692e706f7374696d672e63632f727352334b6e7a732f57686174732d4170702d496d6167652d323032362d30332d30352d61742d31312d30352d31392d504d2e6a7067" width="100%">
   <br>
 </div>
 
@@ -72,7 +72,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://i.postimg.cc/XYfCTXwP/image.png" width="100%">
+  <img src="https://camo.githubusercontent.com/cbc3f3751b2dad18c816d996cf72d198fba3c3f25adaa95580db6f99fc57465b/68747470733a2f2f692e706f7374696d672e63632f38506d51575977392f57686174732d4170702d496d6167652d323032362d30332d30352d61742d31312d30352d31392d504d2d2831292e6a7067" width="100%">
   <br>
   <br>
   <br>
