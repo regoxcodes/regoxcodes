@@ -3,7 +3,7 @@
 ## <h1 align="center">Wayne // code, chaos & caffeine</h1>
 
 <p align="center">
-  Python Developer • AI Explorer • Cyber Enthusiast
+  Cyber Enthusiast • AI Explorer • Web Development
 </p>
 
 <p align="center">
