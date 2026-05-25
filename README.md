@@ -36,11 +36,15 @@
 <br clear="right"/>
 
 <div align="center">
-   
+  <img src="https://i.postimg.cc/VsHvnJQM/image.png" width="100%">
   <br>
-  <a href="https://github.com/regoxcodes"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/regoxcodes"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"></a>
   &nbsp;
-  <a href="mailto:regocodes@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href=""><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  &nbsp;
+  <a href="mailto:regocodes@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  &nbsp;
+  <a href=""><img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xNCAySDZhMiAyIDAgMCAwLTIgMnYxNmEyIDIgMCAwIDAgMiAyaDEyYTIgMiAwIDAgMCAyLTJWOHoiLz48L3N2Zz4=" /></a>
 </div>
 
 <br>
@@ -53,12 +57,22 @@
 <br>
 
 <div align="center">
+  <img src="https://i.postimg.cc/YCHmRPRX/image.png" width="100%">
   <br>
+</div>
+
+<br>
+
+<div align="center">
+  <p align="center">
+    <img src="https://github.com/regoxcodes/regoxcodes/blob/output/github-snake-dark.svg" width="100%">
+  </p>
 </div>
 
 <br><br>
 
 <div align="center">
+  <img src="https://i.postimg.cc/XYfCTXwP/image.png" width="100%">
   <br>
   <br>
   <br>
